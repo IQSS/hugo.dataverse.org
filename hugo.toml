@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hugo.dataverse.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'The Dataverse Project'
 theme = 'PaperMod'
 [params]
 showBreadCrumbs = true
