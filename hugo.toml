@@ -1,4 +1,4 @@
-baseURL = 'https://hugo.dataverse.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'The Dataverse Project'
 theme = 'PaperMod'
