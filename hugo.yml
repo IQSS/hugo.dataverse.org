@@ -16,6 +16,10 @@ menu:
       name: Download/GitHub
       url: https://github.com/IQSS/dataverse/releases
       weight: 30
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 params:
   showBreadCrumbs: true
   label:
