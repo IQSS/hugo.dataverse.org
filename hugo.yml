@@ -1,0 +1,6 @@
+baseURL: /
+languageCode: en-us
+title: The Dataverse Project
+theme: PaperMod
+params:
+  showBreadCrumbs: true
