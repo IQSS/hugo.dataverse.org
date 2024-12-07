@@ -29,17 +29,19 @@ Client-side software includes uploaders in [Java](https://github.com/GlobalDatav
 
 ## Free research data hosting with Harvard Dataverse
 
-If you are simply looking free research data hosting (within [limits](https://support.dataverse.harvard.edu/researchers)), we hope you will consider choosing [Harvard Dataverse](https://dataverse.harvard.edu).
+If you are looking free research data hosting, one of the [many](https://iqss.github.io/dataverse-installations/) Dataverse installations around the world can help (within [limits](https://support.dataverse.harvard.edu/researchers)): [Harvard Dataverse](https://dataverse.harvard.edu).
 
 [![Harvard Dataverse logo](/hdvlogo.png)](https://dataverse.harvard.edu)
 
+You can read the [story](about) of how the Dataverse software was created at and continues to be lead by Harvard's [Institute for Quantitative Social Science](https://www.iq.harvard.edu) (IQSS) with incredible support from the [community](#joining-the-community).
+
 ## Finding research data
 
-To find research data you can try [DataCite](https://commons.datacite.org), [Google Dataset Search](https://datasetsearch.research.google.com), and [DataONE](https://www.dataone.org). Many of the installations of Dataverse around the world make their data [searchable](https://guides.dataverse.org/en/latest/admin/discoverability.html) in these platforms.
+To find research data you can try [DataCite](https://commons.datacite.org), [Google Dataset Search](https://datasetsearch.research.google.com), and [DataONE](https://www.dataone.org). Many of the [installations](https://iqss.github.io/dataverse-installations/) of Dataverse around the world make their data [searchable](https://guides.dataverse.org/en/latest/admin/discoverability.html) in these platforms.
 
-Alternatively, you can search [Dataverse installations](https://iqss.github.io/dataverse-installations/) individually.
+Alternatively, you can search [Dataverse installations](https://iqss.github.io/dataverse-installations/) individually. 🔍
 
-Some Dataverse installations harvest metadata from each other (and non-Dataverse data repositories), making datasets more discoverable across the Dataverse network and the broader data-sharing ecosystem. [Harvard Dataverse](https://dataverse.harvard.edu) is one of these.
+Some Dataverse installations harvest metadata from each other (and non-Dataverse data repositories), making datasets more discoverable across the Dataverse network and the broader data-sharing ecosystem. [Harvard Dataverse](#free-research-data-hosting-with-harvard-dataverse) is one of these.
 
 ## Joining the community
 
