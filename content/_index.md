@@ -33,6 +33,14 @@ If you are simply looking free research data hosting (within [limits](https://su
 
 [![Harvard Dataverse logo](/hdvlogo.png)](https://dataverse.harvard.edu)
 
+## Finding research data
+
+To find research data you can try [DataCite](https://commons.datacite.org), [Google Dataset Search](https://datasetsearch.research.google.com), and [DataONE](https://www.dataone.org). Many of the installations of Dataverse around the world make their data [searchable](https://guides.dataverse.org/en/latest/admin/discoverability.html) in these platforms.
+
+Alternatively, you can search [Dataverse installations](https://iqss.github.io/dataverse-installations/) individually.
+
+Some Dataverse installations harvest metadata from each other (and non-Dataverse data repositories), making datasets more discoverable across the Dataverse network and the broader data-sharing ecosystem. [Harvard Dataverse](https://dataverse.harvard.edu) is one of these.
+
 ## Joining the community
 
 We have a large, friendly, growing [community](/community). Please feel free to browse through discussions on [Google Groups](https://groups.google.com/g/dataverse-community), [Zulip](https://dataverse.zulipchat.com), and [GitHub Issues](https://github.com/IQSS/dataverse/issues). You are welcome to join our monthly [community calls](https://dataverse.org/community-calls), watch some [DataverseTV](https://iqss.github.io/dataverse-tv/), and read the [Dataverse Community News](https://groups.google.com/g/dataverse-community?label=community_news). Our [working groups](https://www.gdcc.io/working-groups.html) are open to all. Come meet us in person at one of our [events](/community/events)!
