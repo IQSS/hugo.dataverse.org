@@ -9,6 +9,8 @@ The University of North Carolina at Chapel Hill's Research Data Management Core 
 
 Conference registration, hotel blocks and other logistical information, once finalized, will be available at <https://dcm2025.hsites.harvard.edu>.
 
+Please take the [survey](https://groups.google.com/g/dataverse-community/c/kzrfgtTHge8/m/BwHmVZ-tAgAJ) to make this the best community meeting yet!
+
 [![Save the date](/dcm2025savethedate.png)](https://dcm2025.hsites.harvard.edu/)
 
 ## [Dataverse Community Meeting 2024](https://sites.harvard.edu/dcm2024/)
