@@ -12,10 +12,14 @@ menu:
       name: Community
       url: /community/
       weight: 20
+    - identifier: download
+      name: Download
+      url: https://github.com/IQSS/dataverse/releases
+      weight: 30
     - identifier: github
       name: GitHub
       url: https://github.com/IQSS/dataverse
-      weight: 30
+      weight: 40
 params:
   showBreadCrumbs: true
   label:
