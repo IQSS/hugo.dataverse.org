@@ -19,7 +19,7 @@ title = ''
 
 You are very welcome to try the Dataverse software at https://demo.dataverse.org or (for the brave of heart) https://beta.dataverse.org! The demo server runs our latest [release](https://github.com/IQSS/dataverse/releases) while the beta server runs unreleased software just merged [on GitHub](https://github.com/IQSS/dataverse).🚀
 
-Feedback is a gift.🎁 Please tell us what you like and don't like on [Google Groups](https://groups.google.com/g/dataverse-community) or [Zulip](https://dataverse.zulipchat.com). Or email use privately at support@dataverse.org. Thanks!
+Feedback is a gift.🎁 Please tell us what you like and don't like on [Google Groups](https://groups.google.com/g/dataverse-community) or [Zulip](https://dataverse.zulipchat.com). Or email us privately at support@dataverse.org. Thanks!
 
 ## Installing the software
 
@@ -37,6 +37,6 @@ If you are simply looking free research data hosting (within [limits](https://su
 
 We have a large, friendly, growing [community](/community). Please feel free to browse through discussions on [Google Groups](https://groups.google.com/g/dataverse-community), [Zulip](https://dataverse.zulipchat.com), and [GitHub Issues](https://github.com/IQSS/dataverse/issues). You are welcome to join our monthly [community calls](https://dataverse.org/community-calls), watch some [DataverseTV](https://iqss.github.io/dataverse-tv/), and read the [Dataverse Community News](https://groups.google.com/g/dataverse-community?label=community_news). Our [working groups](https://www.gdcc.io/working-groups.html) are open to all. Come meet us in person at one of our [events](/community/events)!
 
-[![Dozens of Dataverse community members](/cimmyt.jpg)](community/events/community-meeting/)
+[![Dozens of Dataverse community members](/cimmyt.jpg)](community/events/community-meetings/)
 
 *The 2024 [Dataverse Community Meeting](community/events/community-meetings) in Texcoco, Mexico. [Join us](community/events/community-meetings) in 2025!*
