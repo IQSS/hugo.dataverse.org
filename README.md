@@ -1,10 +1,14 @@
 # dataverse.org (Hugo)
 
-This GitHub project hosts the sources from which the Dataverse website at https://hugo.dataverse.org will be built.
-
-Next, we'll be following https://gohugo.io/hosting-and-deployment/hosting-on-github/
+This GitHub project hosts the sources from which the Dataverse website at https://hugo.dataverse.org is built.
+If we like Hugo, we might switch https://dataverse.org to it.
+Builds are automated and any committed changes will be released by automation.
 
 If we like Hugo, we might switch https://dataverse.org to it.
+
+You can make small edits using the GitHub web editor by changing Markdown files.
+For larger changes, we recommend working with a local setup, which also allows you to preview your changes.
+See below for a tutorial.
 
 ## Prepare your environment
 
