@@ -27,6 +27,12 @@ Our [Installation Guide](https://guides.dataverse.org/en/latest/installation/ind
 
 Client-side software includes uploaders in [Java](https://github.com/GlobalDataverseCommunityConsortium/dataverse-uploader) and [Python](https://github.com/gdcc/python-dvuploader) as well as [API client libraries](https://guides.dataverse.org/en/latest/api/client-libraries.html) in Python, JavaScript, R, Julia, Rust, Go, and more!
 
+## Free research data hosting with Harvard Dataverse
+
+If you are simply looking free research data hosting (within [limits](https://support.dataverse.harvard.edu/researchers)), we hope you will consider choosing [Harvard Dataverse](https://dataverse.harvard.edu).
+
+[![Harvard Dataverse logo](/hdvlogo.png)](https://dataverse.harvard.edu)
+
 ## Joining the community
 
 We have a large, friendly, growing [community](/community). Please feel free to browse through the chatter on our [mailing list](https://groups.google.com/g/dataverse-community) and our [chat room](https://dataverse.zulipchat.com). You are welcome to join our monthly [community calls](https://dataverse.org/community-calls) or watch some [DataverseTV](https://iqss.github.io/dataverse-tv/). Come meet us in person at one of our [events](/community/events)!
