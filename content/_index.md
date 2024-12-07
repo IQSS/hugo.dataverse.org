@@ -15,9 +15,17 @@ title = ''
 
 *Installations of the Dataverse software from [countries](https://iqss.github.io/dataverse-installations/bycountry.html) all over the world. More [details](https://iqss.github.io/dataverse-installations/).*
 
+## Try the Dataverse software
+
+You are very welcome to try the Dataverse software at https://demo.dataverse.org or (for the brave of heart) https://beta.dataverse.org! The demo server runs our latest [release](https://github.com/IQSS/dataverse/releases) while the beta server runs unreleased software just merged [on GitHub](https://github.com/IQSS/dataverse).🚀
+
+Feedback is a gift.🎁 Please tell us what you like and don't like on [Google Groups](https://groups.google.com/g/dataverse-community) or [Zulip](https://dataverse.zulipchat.com). Or email use privately at support@dataverse.org. Thanks!
+
 ## Installing the software
 
-Our [Installation Guide](https://guides.dataverse.org/en/latest/installation/index.html) will help you install the Dataverse software. (An experimental [Docker installation](https://guides.dataverse.org/en/latest/container/running/demo.html) is also available.)
+Our [Installation Guide](https://guides.dataverse.org/en/latest/installation/index.html) will help you install the server-side Dataverse software. (An experimental [Docker installation](https://guides.dataverse.org/en/latest/container/running/demo.html) is also available.) Please [reach out](https://guides.dataverse.org/en/latest/installation/intro.html#getting-help) if you have any difficulty.
+
+Client-side software includes uploaders in [Java](https://github.com/GlobalDataverseCommunityConsortium/dataverse-uploader) and [Python](https://github.com/gdcc/python-dvuploader) as well as [API client libraries](https://guides.dataverse.org/en/latest/api/client-libraries.html) in Python, JavaScript, R, Julia, Rust, Go, and more!
 
 ## Joining the community
 
