@@ -15,9 +15,13 @@ Conference registration, hotel blocks and other logistical information, once fin
 
 The tenth annual Dataverse Community Meeting was held at the International Maize and Wheat Improvement Center (CIMMYT) in Mexico on March 4-8th, 2024.
 
+[![Dozens of Dataverse community members](/cimmyt.jpg)](https://sites.harvard.edu/dcm2024/)
+
 ## [Dataverse Community Meeting 2023](https://projects.iq.harvard.edu/dcm2023)
 
 The ninth annual Dataverse Community Meeting was held at the University of Minho, Braga, Portugal on June 5, 6, and 7, 2023.
+
+[![Dozens of Dataverse community members](/braga.jpg)](https://projects.iq.harvard.edu/dcm2023)
 
 ## [Dataverse Community Meeting 2022](https://projects.iq.harvard.edu/dcm2022)
 

@@ -7,6 +7,10 @@ title = ''
 
 ## Open source research data repository software
 
+[![Dozens of Dataverse community members](/braga.jpg)](community/events/community-meetings)
+
+*The 2023 [Dataverse Community Meeting](community/events/community-meetings) in Braga, Portugal. [Join us](community/events/community-meetings) in 2025!*
+
 <iframe src="https://iqss.github.io/dataverse-installations/map.html" width="980" height="560" frameborder="0" scrolling="no" style="overflow:hidden;"></iframe>
 
 Our [Installation Guide](https://guides.dataverse.org/en/latest/installation/index.html) will help you install the Dataverse software. (An experimental [Docker installation](https://guides.dataverse.org/en/latest/container/running/demo.html) is also available.)
