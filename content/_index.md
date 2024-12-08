@@ -25,9 +25,9 @@ Feedback is a gift.🎁 Please tell us what you like and don't like on [Google G
 
 ## Installing the software
 
-Our [Installation Guide](https://guides.dataverse.org/en/latest/installation/index.html) will help you install the server-side Dataverse software. (An experimental [Docker installation](https://guides.dataverse.org/en/latest/container/running/demo.html) is also available.) Please [reach out](https://guides.dataverse.org/en/latest/installation/intro.html#getting-help) if you have any difficulty.
+Our [Installation Guide](https://guides.dataverse.org/en/latest/installation/index.html) will help you install the Dataverse software. Be sure to consider using [dataverse-ansible](https://github.com/gdcc/dataverse-ansible). Please [reach out](https://guides.dataverse.org/en/latest/installation/intro.html#getting-help) if you have any difficulty. Feedback on our experimental [Docker-based installation](https://guides.dataverse.org/en/latest/container/running/demo.html) is especially welcome.
 
-Client-side software includes uploaders in [Java](https://github.com/GlobalDataverseCommunityConsortium/dataverse-uploader) and [Python](https://github.com/gdcc/python-dvuploader) as well as [API client libraries](https://guides.dataverse.org/en/latest/api/client-libraries.html) in Python, JavaScript, R, Julia, Rust, Go, and more!
+Additionally, client-side software is available, such as uploaders in [Java](https://github.com/GlobalDataverseCommunityConsortium/dataverse-uploader) and [Python](https://github.com/gdcc/python-dvuploader), various [integrations](https://guides.dataverse.org/en/latest/admin/integrations.html) and [apps](https://guides.dataverse.org/en/latest/api/apps.html), and [API client libraries](https://guides.dataverse.org/en/latest/api/client-libraries.html) in Python, JavaScript, R, Julia, Rust, Go, and more!
 
 ## Free research data hosting with Harvard Dataverse
 
