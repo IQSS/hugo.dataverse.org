@@ -7,6 +7,10 @@ title = ''
 
 ## Open source research data repository software
 
+Publish your data and get academic credit. Join a [community](community) of researchers, data scientists, and data curators.
+
+The Dataverse software has an extensive set of [features](features), such as support for the [FAIR Data Principles](https://doi.org/10.1038/sdata.2016.18). Try them out on our [demo server](#try-the-dataverse-software).
+
 [![Dozens of Dataverse community members](/braga.jpg)](community/events/community-meetings)
 
 *The 2023 [Dataverse Community Meeting](community/events/community-meetings) in Braga, Portugal. [Join us](community/events/community-meetings) in 2025!*

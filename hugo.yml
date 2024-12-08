@@ -10,6 +10,9 @@ menu:
     - name: Community
       url: /community/
       weight: 20
+    - name: Features
+      url: /features/
+      weight: 25
     - name: Demo
       url: /#try-the-dataverse-software
       weight: 30
