@@ -4,26 +4,16 @@ title: The Dataverse Project
 theme: PaperMod
 menu:
   main:
-    - identifier: about
-      name: About
+    - name: About
       url: /about/
-      weight: 10
-    - identifier: community
-      name: Community
+    - name: Community
       url: /community/
-      weight: 20
-    - identifier: blog
-      name: Blog
+    - name: Blog
       url: /blog/
-      weight: 30
-    - identifier: download
-      name: Download
+    - name: Download
       url: /#installing-the-software
-      weight: 40
-    - identifier: github
-      name: GitHub
+    - name: GitHub
       url: https://github.com/IQSS/dataverse
-      weight: 50
 markup:
   goldmark:
     renderer:
