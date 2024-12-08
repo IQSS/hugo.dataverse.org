@@ -12,19 +12,19 @@ menu:
       weight: 20
     - name: Features
       url: /features/
-      weight: 25
+      weight: 30
     - name: Demo
       url: /#try-the-dataverse-software
-      weight: 30
+      weight: 40
     - name: Download
       url: /#installing-the-software
-      weight: 40
+      weight: 50
     - name: Blog
       url: /blog/
-      weight: 50
+      weight: 60
     - name: GitHub
       url: https://github.com/IQSS/dataverse
-      weight: 60
+      weight: 70
 markup:
   goldmark:
     renderer:
