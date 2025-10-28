@@ -35,7 +35,7 @@ Additionally, client-side software is available, such as uploaders in [Java](htt
 
 ## Free research data hosting with Harvard Dataverse
 
-If you are looking free research data hosting, one of the many Dataverse [installations](#dataverse-installations-around-the-world) around the world can help (within [limits](https://support.dataverse.harvard.edu/researchers)): [Harvard Dataverse](https://dataverse.harvard.edu).
+If you are looking for free research data hosting, one of the many Dataverse [installations](#dataverse-installations-around-the-world) around the world can help (within [limits](https://support.dataverse.harvard.edu/researchers)): [Harvard Dataverse](https://dataverse.harvard.edu).
 
 [![Harvard Dataverse logo](/hdvlogo.png)](https://dataverse.harvard.edu)
 
